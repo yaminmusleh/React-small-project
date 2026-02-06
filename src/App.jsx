@@ -1,11 +1,11 @@
 import React from "react";
-import Navbar from "./assets/navbar/Navbar";
+import AppNavbar from "./assets/navbar/AppNavbar";
 
 export default function App() {
   return (
     <>
-      <Navbar />
-      <Hero />
+      <AppNavbar />
+      <h1>hello</h1>
     </>
   );
 }
