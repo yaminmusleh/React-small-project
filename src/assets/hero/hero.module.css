@@ -1,0 +1,22 @@
+.textcenter{
+    text-align: center;
+}
+.width{
+    width: 15rem;
+}
+.desc{
+    font-size: 4rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 3px;
+    color: white;
+}
+.descsmall{
+
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+body{
+    background-color: #1abc9c;
+    padding-top: 100px!important;
+}

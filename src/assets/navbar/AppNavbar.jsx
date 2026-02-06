@@ -7,7 +7,7 @@ export default function AppNavbar() {
     
       <Navbar collapseOnSelect expand="lg" fixed="top" className={`${styles.navbar} py-2`}>
       <Container>
-        <Navbar.Brand href="#home" className={styles.brand}>Start Bootstrap</Navbar.Brand>
+        <Navbar.Brand href="#" className={styles.brand}>Start Bootstrap</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className='ms-auto'>
