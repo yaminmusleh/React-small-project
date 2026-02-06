@@ -1,0 +1,11 @@
+.portfoliosection{
+    background-color: white;
+    padding: 5% 0;
+    text-transform: uppercase;
+}
+.title{
+    font-size: 3rem;
+    line-height: 2.5rem;
+    color: #2c3e50;
+    font-weight: bold;
+}
